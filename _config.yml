@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yiyang Jiang"
+title                    : "Yiyang Jiang / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Yiyang Jiang"
 description              : &description "Ph.D. Student in Physics at Penn State University"
@@ -26,7 +26,7 @@ author:
   name             : "Yiyang Jiang"
   pronouns         : # example: "she/her"
   bio              : "Ph.D. Student in Condensed Matter Theory"
-  location         : "Davey 335, Department of Physics, Pennsylvania State University"
+  location         : "Davey 335<br>Department of Physics<br>Penn State University"
   employer         : "Pennsylvania State University"
   uri              : # URL
   email            : "yzj5306@psu.edu"

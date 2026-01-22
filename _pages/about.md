@@ -12,14 +12,14 @@ I am a Ph.D. student in Physics at **Pennsylvania State University**, advised by
 
 My research focuses on **Condensed Matter Theory**, specifically exploring the intersection of topology, geometry, and nonlinear responses in quantum materials.
 
-### Research Interests
+### 🔬 Research Interests
 
 *   **Topology and Quantum Geometry**: Quantum metric, Berry curvature, quantum connection.
 *   **Nonlinear and Nonreciprocal Responses**: Nonlinear Hall effect, nonreciprocal magnetoresistance, nonreciprocal thermal photonics.
 *   **Chirality**: Chirality induced spin selectivity (CISS), electric magnetochiral anisotropy (EMCA).
 *   **AI for Science**: Quantum material benchmark for large language models (LLM).
 
-### Education
+### 🎓 Education
 
 *   **Ph.D. in Physics**, Pennsylvania State University (Aug 2024 - Present)
 *   **Graduate Studies**, Weizmann Institute of Science (Aug 2023 - Jun 2024)

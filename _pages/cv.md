@@ -29,7 +29,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-## Honors and Scholarships
+## 🏅 Honors and Scholarships
 *   **National Scholarship** (2020) - Top 1% of undergrads
 *   **Tsinghua Alumni Scholarship** (2021, 2022)
 *   **Tsinghua Xuetang Plan Scholarship** (2019-2022)
