@@ -1,6 +1,7 @@
 ---
 title: "QMBench: A Research Level Benchmark for Quantum Materials Research"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-09-qmbench
 date: 2025-09-01
 venue: 'Online Benchmark Resource'

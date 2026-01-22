@@ -1,6 +1,7 @@
 ---
 title: "Chirality-induced magnet-free spin generation in a semiconductor"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-09-adma-ciss
 date: 2024-09-01
 venue: 'Advanced Materials'

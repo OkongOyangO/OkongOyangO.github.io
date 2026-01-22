@@ -1,6 +1,7 @@
 ---
 title: "Hybrid-order topology in unconventional magnets of Eu-based Zintl compounds"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-11-prb-hybrid
 date: 2024-11-01
 venue: 'Physical Review B'

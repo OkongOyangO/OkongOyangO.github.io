@@ -1,6 +1,7 @@
 ---
 title: "Revealing quantum geometry in nonlinear quantum materials"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-ropp-geometry
 date: 2025-07-01
 venue: 'Reports on Progress in Physics'

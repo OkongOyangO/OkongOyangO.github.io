@@ -1,6 +1,7 @@
 ---
 title: "Three-dimensional higher-order saddle-point-induced flatbands in Co-based kagome metals"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-12-prr-flatbands
 date: 2024-12-01
 venue: 'Physical Review Research'

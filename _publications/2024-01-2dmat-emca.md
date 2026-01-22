@@ -1,6 +1,7 @@
 ---
 title: "Electrical magnetochiral anisotropy and quantum metric in chiral conductors"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-2dmat-emca
 date: 2024-01-01
 venue: '2D Materials'
