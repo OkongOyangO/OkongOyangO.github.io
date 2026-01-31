@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D. in Physics**, Pennsylvania State University (Aug 2024 - Present)
   * Advisor: Prof. Binghai Yan
-* **M. Sc.**, Weizmann Institute of Science (Aug 2023 - Jun 2024)
+* **M.Sc. in Physics**, Weizmann Institute of Science (Aug 2023 - Jun 2024)
   * Advisor: Prof. Binghai Yan
 * **B.S. in Physics**, Tsinghua University (Aug 2019 - June 2023)
 
