@@ -22,7 +22,7 @@ My research focuses on **Condensed Matter Theory**, specifically exploring the i
 ### 🎓 Education
 
 *   **Ph.D. in Physics**, Pennsylvania State University (Aug 2024 - Present)
-*   **Graduate Studies**, Weizmann Institute of Science (Aug 2023 - Jun 2024)
+*   **M. Sc.**, Weizmann Institute of Science (Aug 2023 - Jun 2024)
 *   **B.S. in Physics**, Tsinghua University (Aug 2019 - June 2023)
 
 [See my Physics Notes (Sub-site)](https://OkongOyangO.github.io/OkongOyangO.Notes/)
