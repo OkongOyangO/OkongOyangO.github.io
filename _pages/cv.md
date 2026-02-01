@@ -9,22 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## 🎓 Education
 * **Ph.D. in Physics**, Pennsylvania State University (Aug 2024 - Present)
   * Advisor: Prof. Binghai Yan
 * **M.Sc. in Physics**, Weizmann Institute of Science (Aug 2023 - Jun 2024)
   * Advisor: Prof. Binghai Yan
 * **B.S. in Physics**, Tsinghua University (Aug 2019 - June 2023)
 
-Publications
-======
+## 📄 Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
+## 🎤 Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
