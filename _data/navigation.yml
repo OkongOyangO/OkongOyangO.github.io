@@ -17,8 +17,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Physics Notes"
-    url: "https://OkongOyangO.github.io/OkongOyangO.Notes/"
-
   - title: "Resources"
     url: /resources/
+
+  - title: "Physics Notes"
+    url: "https://OkongOyangO.github.io/OkongOyangO.Notes/"
